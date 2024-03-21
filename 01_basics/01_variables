@@ -4,7 +4,7 @@ var accountPassword = "12345"
 accountCity = "Delhi"
 let accountGender;
 
-// accountId = 2 // not alllowed
+// accountId = 2 // not alllowed because of const datatypes
 
 accountEmail = "hc@gmail.com"
 accountPassword = "5645415"
